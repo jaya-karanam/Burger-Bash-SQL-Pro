@@ -1,3 +1,6 @@
+
+------Case Study Insights------
+
 -- how many burgers were ordered?
 select count(runner_id) 
 from runner_orders;
